@@ -1,0 +1,38 @@
+.background-beige{
+    background-color: #fff6e9;
+}
+
+.background-blue{
+    background-color: #3a59d1;
+    /* background-color: #3a59d180; Transparency */
+}
+
+.background-green{
+    background-color: #0D9276;
+}
+
+.text-beige{
+   color: #fff6e9; 
+}
+
+.text-blue{
+    color: #3a59d1;
+}
+
+.title-font {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sub-font{
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.skill-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
